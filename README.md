@@ -2,19 +2,19 @@
 <p align="center">cs + math @ urochester</p>
 
 <p align="center">
-  <a href="https://drainerwilly.github.io/personal-website/">website</a> •
+  <a href="https://willyka.me">website</a> •
   <a href="https://www.linkedin.com/in/mertkan-karaaslan-950573298/">linkedin</a> •
-  <a href="https://github.com/DrainerEvelyn">github</a>
+  <a href="https://github.com/DrainerWilly">github</a>
 </p>
 
 ---
 
 <p align="center">
-  os | c++/rust | compilers | graphics | security
+  systems | os | c++/rust | compilers | security
 </p>
 
 <p align="center">
-  research & development @ uw madison - ssec | gis satellite imagery dev
+  research & development @ uw madison | satellite tracker dev
   <br>
-  research @ gids-ai | computer vision    
+  research @ gids-ai | computer vision & VLMs
 </p>
